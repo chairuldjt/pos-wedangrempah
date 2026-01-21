@@ -2,6 +2,14 @@
 
 Sistem Management POS (Point of Sale) dan Landing Page Premium yang dirancang khusus untuk bisnis minuman tradisional. Dibangun dengan Next.js 16, MySQL, dan sistem desain yang elegan khas Nusantara.
 
+## 📸 Cuplikan Tampilan
+
+![Landing Page](public/screenshots/landing-page.png)
+*Tampilan Beranda Premium*
+
+![Contact Section](public/screenshots/contact-section.png)
+*Informasi Kontak & Sosial Media (TikTok)*
+
 ## ✨ Fitur Utama
 
 ### 🏛️ Landing Page (Untuk Pelanggan)
