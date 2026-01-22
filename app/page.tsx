@@ -269,15 +269,7 @@ export default function LandingPage() {
 
           <div className="mt-16 text-center">
             <p className="text-text-muted mb-6">Menu lainnya dapat dilihat langsung melalui kasir atau di kedai.</p>
-            <div className="p-8 border border-dashed border-primary/30 rounded-2xl bg-surface/30 max-w-3xl mx-auto flex items-center gap-6">
-              <div className="w-16 h-16 rounded-full bg-primary/20 flex-shrink-0 flex items-center justify-center">
-                <Info size={32} className="text-accent" />
-              </div>
-              <div className="text-left">
-                <h4 className="text-xl font-bold text-accent mb-1">Menerima Pesanan Partai Besar</h4>
-                <p className="text-sm">Untuk acara hajatan, pertemuan, atau acara kantor. Hubungi admin untuk negosiasi harga.</p>
-              </div>
-            </div>
+
           </div>
         </div>
       </section>
